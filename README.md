@@ -50,15 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/snake.svg" alt="Snake animation" />
-<img src="https://github.com/JhonSantt4na/JhonSantt4na/blob/github-contribution-grid-snake.svg" />
-###
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desistir+Não+é+Opção!;" />
 
-<h2 align="center">Desistir Não é uma opção !</h2>
-
-###
