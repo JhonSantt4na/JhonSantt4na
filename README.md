@@ -56,7 +56,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/snake.svg" alt="Snake animation" />
-
+<img src="https://github.com/JhonSantt4na/JhonSantt4na/blob/github-contribution-grid-snake.svg" />
 ###
 
 <h2 align="center">Desistir Não é uma opção !</h2>
