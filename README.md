@@ -1,29 +1,36 @@
-<h2 align="center">Oii 👋, Meu nome é Jorge Santt4na<br>Desenvolvedor Backend</h2>
+<h1 align="center">Oii 👋, Meu nome é Jorge Santt4na<br>Desenvolvedor Backend</h1>
 
-###
+
 
 <p align="center">Buscando transformar minha paixão por backend em resultados concretos. veja como estou preparado para enfrentar novos desafios no mercado de trabalho.</p>
 
-###
+
 
 <br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/santan4ofc?igsh=eHo2eWk1NHRkbXU0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="50" alt="instagram logo"  />
   </a>
+  &nbsp
   <a href="jhonndev25@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="50" alt="gmail logo"  />
   </a>
+  &nbsp
   <a href="https://discord.gg/xqvWXKQr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="50" alt="discord logo"  />
   </a>
+  &nbsp
   <a href="linkedin.com/in/jorge-santt4na-845879317" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="50" alt="linkedin logo"  />
   </a>
+
+
+
 </div>
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
