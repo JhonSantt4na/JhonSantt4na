@@ -23,7 +23,7 @@
   </a>
 </div>
 
-###
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -52,5 +52,7 @@
 </div>
 <br clear="both">
 
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desistir+Não+é+Opção!;" />
+</h1>
 
