@@ -17,7 +17,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="50" alt="discord logo"  />
   </a>
   &nbsp
-  <a href="www.linkedin.com/in/jsantt4na" target="_blank">
+  <a href="www.linkedin.com/in/jsantt4na](https://www.linkedin.com/in/jsantt4na/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="50" alt="linkedin logo"  />
   </a>
 
