@@ -64,4 +64,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/github-contribution-grid-snake.svg">
 </picture>
-<h2 align="center">Oii 👋, Meu nome é Jorge Santt4na<br>Desenvolvedor Backend</h2>
