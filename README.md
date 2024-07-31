@@ -10,15 +10,15 @@
 
 <div align="center">
   <a href="https://www.instagram.com/santan4ofc?igsh=eHo2eWk1NHRkbXU0" target="_blank">
-    <img src="https://raw.githubusercontent.com/JhonSantt4na/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="50" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="50" alt="instagram logo"  />
   </a>
   &nbsp
   <a href="https://discord.com/invite/wvbAwCJ3" target="_blank">
-    <img src="https://raw.githubusercontent.com/JhonSantt4na/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="50" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="57" height="50" alt="discord logo"  />
   </a>
   &nbsp
   <a href="https://www.linkedin.com/in/jsantt4na/"(https://www.linkedin.com/in/jsantt4na/" target="_blank">
-    <img src="https://raw.githubusercontent.com/JhonSantt4na/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="50" alt="linkedin logo"  />
   </a>
 
 
@@ -64,3 +64,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/github-contribution-grid-snake.svg">
 </picture>
+<h2 align="center">Oii 👋, Meu nome é Jorge Santt4na<br>Desenvolvedor Backend</h2>
