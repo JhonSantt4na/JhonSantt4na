@@ -86,17 +86,6 @@
 
 </div>
 
-
-###
-
-<h3 align="center">🔥   Meus Status :</h3> 
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonSantt4na&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonSantt4na/JhonSantt4na/output/github-contribution-grid-snake-dark.svg">
