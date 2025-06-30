@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=80&duration=4000&lines=Desenvolvedor+Backend+Java!;&color=b25573" alt="Typing SVG"/>
     </a>
     <br>
-    <a href="https://www.linkedin.com/in/jsantt4na" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <a href="https://www.linkedin.com/in/jorge-santana-dev" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
       <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/JhonSantt4na" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
